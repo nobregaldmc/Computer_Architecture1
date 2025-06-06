@@ -1,4 +1,4 @@
-# ARQ1 – Computer Architecture and Organization 1
+# Computer Architecture and Organization 1
 
 This repository contains the practical activities I developed and presented during the **ARQ1 (Computer Architecture and Organization 1)** course.
 
